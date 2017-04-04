@@ -1,0 +1,12 @@
+
+
+
+
+Interrupts:
+	ADC-DMA Transfer Complete
+		priority = 
+	TIM5 Update
+		priority =
+
+Virtual GND:
+	Clocks GPIOA, GPIOB and GPIOC, so they are already enabled when other peripherals are configured. Pulls down 
